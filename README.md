@@ -9,3 +9,4 @@ pip install discord.py
 Install python
 
 # Thank you
+Make to tell me if something isn't going well with the code ;)
